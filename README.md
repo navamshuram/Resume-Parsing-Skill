@@ -23,3 +23,5 @@ Data was obtained by scrapping individual resume examples from www.livecareer.co
 Jobzilla skill patterns
 
 The jobzilla skill dataset (https://github.com/kingabzpro/jobzilla_ai/blob/main/jz_skill_patterns.jsonl) is jsonl file containing different skills that can be used to create spaCy entity_ruler. The data set contains label and pattern-> diferent words used to descibe skills in various resume.
+
+Overall, it was a learning experience for me as I have never used spaCy in depth. I have also discovered various ways on how my project can be used to improve the hiring process in filtering out the perfect candidate for the job.
